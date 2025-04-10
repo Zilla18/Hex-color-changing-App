@@ -6,13 +6,13 @@
   overflow: hidden;
 }
 body {
-  width: 100vh;
+  height: 100vh;
   background-color: rgb(50, 50, 51);
 }
 .container {
-  width: 80%;
+  width: fit-content;
   background-color: #ffffff;
-  margin: 8rem;
+  margin: 8rem auto;
   padding: 3rem;
   border-radius: 2rem;
 }
