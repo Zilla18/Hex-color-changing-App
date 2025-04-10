@@ -12,7 +12,7 @@ body {
 .container {
   width: fit-content;
   background-color: #ffffff;
-  margin: 8rem auto;
+  margin: 6rem auto;
   padding: 3rem;
   border-radius: 2rem;
 }
